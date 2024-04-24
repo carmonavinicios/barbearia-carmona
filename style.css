@@ -9,13 +9,28 @@ p{
 #missao{
   font-size: 28px;
 }
+.principal{
+  background-color: #cccccc
+}
+.titulo-pricipal{
+  padding-left: 20px;
+}
 .beneficios{
-  height:50%;
-  width:300px;
+  width: 95%;
 }
 .imagem{
-  height:100%;
-  width:100%;
+  width: 95%;
 }
+.centro-centralizado{
+  text-align:center;
+}
+.ul{
+  display: inline-block;
+  vertical-align: top;
+  width:20%;
+  margin-right: 15%;
+  
+}
+
 
   
