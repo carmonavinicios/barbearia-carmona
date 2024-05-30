@@ -1,15 +1,51 @@
-header{
+header {
   background: #BBBBBB;
   padding: 20px 0;
 }
-nav li{
-  display: inline;
-    margin-left:15px; 
+
+.caixa {
+  width: 940px;
+  position: relative;
+  margin: 0 auto;
 }
-nav a{
-  color:#000000;
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+
+nav li {
+  display: inline;
+  margin-left: 15px;
+}
+
+nav a {
+  color: #000000;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 22px;
+}
+
+nav a:hover {
+  color: #C78C19;
+  text-decoration: underline;
+}
+
+.produtos {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px;
+}
+.produtos li{
+ display: inline-block;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 1.5%;
+  box-sizing: border-box;
+  padding 
 }
