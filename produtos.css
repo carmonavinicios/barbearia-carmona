@@ -47,5 +47,19 @@ nav a:hover {
   vertical-align: top;
   margin: 0 1.5%;
   box-sizing: border-box;
-  padding 
+  padding: 30px 20px;
 }
+
+.produtos li:hover{
+  border-color: #C78C19;
+}
+.produtos li:hover h2{
+  font-size: 34px;
+}
+.produtos li:active{
+  border-color: #088c19;
+}
+footer {
+  background: url("bg.jpg");
+  text-align
+} 
